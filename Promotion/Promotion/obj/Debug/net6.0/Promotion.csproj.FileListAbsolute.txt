@@ -1,0 +1,15 @@
+C:\Users\intel\source\repos\Promotion\Promotion\bin\Debug\net6.0\Promotion.exe
+C:\Users\intel\source\repos\Promotion\Promotion\bin\Debug\net6.0\Promotion.deps.json
+C:\Users\intel\source\repos\Promotion\Promotion\bin\Debug\net6.0\Promotion.runtimeconfig.json
+C:\Users\intel\source\repos\Promotion\Promotion\bin\Debug\net6.0\Promotion.dll
+C:\Users\intel\source\repos\Promotion\Promotion\bin\Debug\net6.0\Promotion.pdb
+C:\Users\intel\source\repos\Promotion\Promotion\obj\Debug\net6.0\Promotion.csproj.AssemblyReference.cache
+C:\Users\intel\source\repos\Promotion\Promotion\obj\Debug\net6.0\Promotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intel\source\repos\Promotion\Promotion\obj\Debug\net6.0\Promotion.AssemblyInfoInputs.cache
+C:\Users\intel\source\repos\Promotion\Promotion\obj\Debug\net6.0\Promotion.AssemblyInfo.cs
+C:\Users\intel\source\repos\Promotion\Promotion\obj\Debug\net6.0\Promotion.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\Promotion\Promotion\obj\Debug\net6.0\Promotion.dll
+C:\Users\intel\source\repos\Promotion\Promotion\obj\Debug\net6.0\refint\Promotion.dll
+C:\Users\intel\source\repos\Promotion\Promotion\obj\Debug\net6.0\Promotion.pdb
+C:\Users\intel\source\repos\Promotion\Promotion\obj\Debug\net6.0\Promotion.genruntimeconfig.cache
+C:\Users\intel\source\repos\Promotion\Promotion\obj\Debug\net6.0\ref\Promotion.dll
